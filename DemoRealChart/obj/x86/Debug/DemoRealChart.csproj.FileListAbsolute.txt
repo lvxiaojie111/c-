@@ -1,0 +1,43 @@
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.pdb
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+C:\Users\Administrator\Desktop\展示\DemoRealChart\bin\Debug\DemoRealChart.exe
+C:\Users\Administrator\Desktop\展示\DemoRealChart\bin\Debug\DemoRealChart.pdb
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Form1.resources
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.uart1para.resources
+C:\Users\Administrator\Desktop\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.历史数据曲线.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\bin\Debug\DemoRealChart.exe
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\bin\Debug\DemoRealChart.pdb
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Form1.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.uart1para.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.历史数据曲线.resources
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\展示\DemoRealChart\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+D:\v\展示\DemoRealChart\bin\Debug\DemoRealChart.exe
+D:\v\展示\DemoRealChart\bin\Debug\DemoRealChart.pdb
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.csprojResolveAssemblyReference.cache
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Form1.resources
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.uart1para.resources
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.历史数据曲线.resources
+D:\v\展示\DemoRealChart\obj\x86\Debug\DemoRealChart.csproj.GenerateResource.Cache
